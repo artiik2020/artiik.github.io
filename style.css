@@ -1,0 +1,48 @@
+
+h2 {
+    color: #27ae60; /* Тёмно-синий цвет заголовка */
+    text-align: center; /* Центрируем заголовок */
+}
+
+a:hover {
+     color: red; 
+    }
+
+a {
+    
+    color: #27ab60; /* Красный цвет ссылок */
+    text-decoration: none; /* Убираем подчёркивание */
+}
+
+img {
+    border: 1px solid black
+}
+img:hover {
+     opacity: 0.8; 
+    }
+
+.highlight {
+    background: #f1c40f
+}
+
+ul {
+    text-align: center
+}
+
+ol {
+    font-weight: bold
+}
+
+body {
+    width: 800px;
+    margin: 0 auto
+}
+
+p {
+    line-height: 1.5
+}
+
+h1 {
+    text-shadow: 2px 2px 4px grey
+}
+
